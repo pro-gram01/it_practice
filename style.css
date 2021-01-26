@@ -1,13 +1,23 @@
 h1 {
     font-size: 50px;
 }
-#foo {
+
+
+#RAGEBLUE {
+    
     font-size: 20px;
-    color: red;
+    position: relative;
+    top: 25px;
+
 }
-#bar {
+
+.HARE {
+
     font-size: 20px;
-    color:blue;
+    position: relative;
+    bottom: 650px;
+    left: 650px;
+
 }
 
 /*ボタン*/
